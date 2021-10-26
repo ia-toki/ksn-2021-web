@@ -17,6 +17,7 @@ Perbedaan dengan [Peraturan KSN Informatika 2020](https://ksn2020.toki.id/peratu
 2. Hasil pada hari uji coba **tidak** termasuk dalam penilaian.
 3. Pada setiap hari kompetisi, terdapat **3 buah soal** yang diujikan selama **5 jam**.
 4. Setiap peserta mendapatkan jatah sebanyak **50 kali pengumpulan** untuk setiap soal.
+  <span style="color:red">Jatah ini bisa saja ditambahkan untuk beberapa soal</span>.
 5. Bahasa pemrograman yang diperbolehkan adalah <span style="color:red">**C** dan **C++**</span>.
 6. Selama kompetisi, peserta hanya dapat melihat nilainya sendiri.
 
@@ -55,7 +56,7 @@ Perbedaan dengan [Peraturan KSN Informatika 2020](https://ksn2020.toki.id/peratu
       1. Setiap *test group* termasuk ke dalam satu atau lebih subsoal.
       1. Untuk mendapatkan nilai pada suatu subsoal, peserta harus menyelesaikan **seluruh test group** yang termasuk pada subsoal yang bersangkutan, _kecuali_ dinyatakan lain pada soal.
       1. Untuk menyelesaikan sebuah *test group*, peserta harus menyelesaikan **seluruh kasus uji** pada *test group* yang bersangkutan.
-      1. Setiap soal mungkin memiliki beberapa **subsoal terbuka** yang mana isi kasus-kasus ujinya diberikan kepada peserta, sehingga memungkinkan dikerjakan secara manual.
+      1. Setiap soal mungkin memiliki beberapa **subsoal terbuka** yang isi kasus-kasus ujinya diberikan kepada peserta, sehingga memungkinkan dikerjakan secara manual.
 
    1. Untuk soal bertipe *output-only*:
       1. Setiap soal terdiri atas **beberapa kasus uji** dengan bobot nilai yang bervariasi.
@@ -68,7 +69,7 @@ Perbedaan dengan [Peraturan KSN Informatika 2020](https://ksn2020.toki.id/peratu
    1. Contoh soal:
       - *Batch*: [Membaca, OSN 2012](https://tlx.toki.id/problems/osn-2012-2/D).
       - *Interactive*: [Mencari Bola, KSN 2020](https://tlx.toki.id/problems/ksn-2020/2C).
-      - *Output-only*: [Tourism in Palembang, OSN 2016](https://tlx.toki.id/problems/osn-2016-2/C).
+      - *Output-only*: [Pertahanan Negara, KSN 2020](https://tlx.toki.id/problems/ksn-2020/1A).
 
 <br>
 
@@ -108,11 +109,15 @@ Perbedaan dengan [Peraturan KSN Informatika 2020](https://ksn2020.toki.id/peratu
 
 1. Peserta dapat mengajukan klarifikasi selama kompetisi berlangsung.
 1. Setiap klarifikasi yang berhubungan dengan soal hanya akan dijawab dengan salah satu dari balasan berikut:
-   - Ya
-   - Tidak
-   - <span style="color:red">Jawaban terdapat pada deskripsi soal<span>
-   - Tidak ada komentar
-   - Baca pengumuman
+   - "Ya"
+   - "Tidak"
+   - "Jawaban terdapat pada deskripsi soal" <br>
+     Deskripsi soal telah mengandung informasi yang cukup. Peserta dihimbau untuk membaca ulang soal dengan lebih teliti.
+   - "Pertanyaan tidak valid" <br>
+     Pertanyaan tidak bisa dijawab dengan jawaban Ya/Tidak. Peserta disarankan untuk mengulangi pertanyaannya.
+   - "Tidak ada komentar" <br>
+     Peserta menanyakan informasi yang tidak bisa diberikan jawabannya.
+1. Jawaban dari klarifikasi bisa saja mempunyai informasi tambahan apabila dirasa diperlukan.
 
 <br>
 

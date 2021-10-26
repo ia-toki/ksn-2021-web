@@ -9,7 +9,7 @@ key: rules
    Pastikan untuk membaca juga <a href="/peraturan-daring.html">Peraturan Kompetisi Daring</a>.
 </div>
 
-Tidak ada perbedaan dengan [Peraturan KSN Informatika 2020](https://ksn2020.toki.id/peraturan.html)
+Perbedaan dengan [Peraturan KSN Informatika 2020](https://ksn2020.toki.id/peraturan.html) ditandai <span style="color:red">warna merah</span>.
 
 ### A. Teknis Umum
 
@@ -17,7 +17,7 @@ Tidak ada perbedaan dengan [Peraturan KSN Informatika 2020](https://ksn2020.toki
 2. Hasil pada hari uji coba **tidak** termasuk dalam penilaian.
 3. Pada setiap hari kompetisi, terdapat **3 buah soal** yang diujikan selama **5 jam**.
 4. Setiap peserta mendapatkan jatah sebanyak **50 kali pengumpulan** untuk setiap soal.
-5. Bahasa pemrograman yang diperbolehkan adalah **C** dan **C++**.
+5. Bahasa pemrograman yang diperbolehkan adalah <span style="color:red">**C** dan **C++**</span>.
 6. Selama kompetisi, peserta hanya dapat melihat nilainya sendiri.
 
 <br>
@@ -110,7 +110,7 @@ Tidak ada perbedaan dengan [Peraturan KSN Informatika 2020](https://ksn2020.toki
 1. Setiap klarifikasi yang berhubungan dengan soal hanya akan dijawab dengan salah satu dari balasan berikut:
    - Ya
    - Tidak
-   - Jawaban terdapat pada deskripsi soal
+   - <span style="color:red">Jawaban terdapat pada deskripsi soal<span>
    - Tidak ada komentar
    - Baca pengumuman
 

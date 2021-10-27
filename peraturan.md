@@ -17,7 +17,7 @@ Perbedaan dengan [Peraturan KSN Informatika 2020](https://ksn2020.toki.id/peratu
 2. Hasil pada hari uji coba **tidak** termasuk dalam penilaian.
 3. Pada setiap hari kompetisi, terdapat **3 buah soal** yang diujikan selama **5 jam**.
 4. Setiap peserta mendapatkan jatah sebanyak **50 kali pengumpulan** untuk setiap soal.
-  <span style="color:red">Jatah ini bisa saja ditambahkan untuk beberapa soal</span>.
+  <span style="color:red">Jatah ini bisa saja ditambahkan untuk beberapa soal tertentu</span>.
 5. Bahasa pemrograman yang diperbolehkan adalah <span style="color:red">**C** dan **C++**</span>.
 6. Selama kompetisi, peserta hanya dapat melihat nilainya sendiri.
 
@@ -67,7 +67,7 @@ Perbedaan dengan [Peraturan KSN Informatika 2020](https://ksn2020.toki.id/peratu
    1. Rumus penilaian bervariasi untuk setiap soal, dan akan dinyatakan secara eksplisit pada soal.
 
    1. Contoh soal:
-      - *Batch*: [Membaca, OSN 2012](https://tlx.toki.id/problems/osn-2012-2/D).
+      - *Batch*: [Membaca, OSN 2012](https://tlx.toki.id/problems/osn-2012/2D).
       - *Interactive*: [Mencari Bola, KSN 2020](https://tlx.toki.id/problems/ksn-2020/2C).
       - *Output-only*: [Pertahanan Negara, KSN 2020](https://tlx.toki.id/problems/ksn-2020/1A).
 
@@ -112,7 +112,7 @@ Perbedaan dengan [Peraturan KSN Informatika 2020](https://ksn2020.toki.id/peratu
    - "Ya"
    - "Tidak"
    - "Jawaban terdapat pada deskripsi soal" <br>
-     Deskripsi soal telah mengandung informasi yang cukup. Peserta dihimbau untuk membaca ulang soal dengan lebih teliti.
+     Deskripsi soal telah mengandung informasi yang cukup. Peserta diimbau untuk membaca ulang soal dengan lebih teliti.
    - "Pertanyaan tidak valid" <br>
      Pertanyaan tidak bisa dijawab dengan jawaban Ya/Tidak. Peserta disarankan untuk mengulangi pertanyaannya.
    - "Tidak ada komentar" <br>

@@ -117,7 +117,7 @@ Perbedaan dengan [Peraturan KSN Informatika 2020](https://ksn2020.toki.id/peratu
      Pertanyaan tidak bisa dijawab dengan jawaban Ya/Tidak. Peserta disarankan untuk mengulangi pertanyaannya.
    - "Tidak ada komentar" <br>
      Peserta menanyakan informasi yang tidak bisa diberikan jawabannya.
-1. Jawaban dari klarifikasi bisa saja mempunyai informasi tambahan apabila dirasa diperlukan.
+1. Jawaban dari klarifikasi bisa saja mempunyai informasi tambahan jika sekiranya diperlukan.
 
 <br>
 

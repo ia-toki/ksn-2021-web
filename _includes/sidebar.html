@@ -25,6 +25,10 @@
         <span class="pt-icon-standard pt-icon-people sidebar-icon"></span>
         <a href="/peserta.html">Daftar Peserta</a>
       </div>
+      <div class="pt-tab" role="tab" aria-selected="{% if page.key == 'schedule' %}true{% else %}false{% endif %}">
+        <span class="pt-icon-standard pt-icon-calendar sidebar-icon"></span>
+        <a href="/jadwal.html">Jadwal Kegiatan</a>
+      </div>
 
       <div class="pt-tab" role="tab" aria-selected="{% if page.key == 'reference' %}true{% else %}false{% endif %}">
         <span class="pt-icon-standard pt-icon-git-repo sidebar-icon"></span>

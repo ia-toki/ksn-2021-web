@@ -1,47 +1,32 @@
 <div class="pt-card card-sidebar">
   <div class="pt-tabs pt-tab-vertical">
     <div class="pt-tab-list" role="tablist">
-      <div
-        class="pt-tab"
-        role="tab"
-        aria-selected="{% if page.key == 'news' %}true{% else %}false{% endif %}"
-      >
+      <div class="pt-tab" role="tab" aria-selected="{% if page.key == 'news' %}true{% else %}false{% endif %}">
         <span class="pt-icon-standard pt-icon-feed sidebar-icon"></span>
         <a href="/">Berita</a>
       </div>
 
-      <div
-        class="pt-tab"
-        role="tab"
-        aria-selected="{% if page.key == 'syllabus' %}true{% else %}false{% endif %}"
-      >
+      <div class="pt-tab" role="tab" aria-selected="{% if page.key == 'syllabus' %}true{% else %}false{% endif %}">
         <span class="pt-icon-standard pt-icon-properties sidebar-icon"></span>
         <a href="/silabus.html">Silabus Materi</a>
       </div>
-      
-      <div
-        class="pt-tab"
-        role="tab"
-        aria-selected="{% if page.key == 'rules' %}true{% else %}false{% endif %}"
-      >
+
+      <div class="pt-tab" role="tab" aria-selected="{% if page.key == 'rules' %}true{% else %}false{% endif %}">
         <span class="pt-icon-standard pt-icon-book sidebar-icon"></span>
         <a href="/peraturan.html">Peraturan Kompetisi</a>
       </div>
 
-      <div
-        class="pt-tab"
-        role="tab"
-        aria-selected="{% if page.key == 'rules-online' %}true{% else %}false{% endif %}"
-      >
+      <div class="pt-tab" role="tab" aria-selected="{% if page.key == 'rules-online' %}true{% else %}false{% endif %}">
         <span class="pt-icon-standard pt-icon-book sidebar-icon"></span>
         <a href="/peraturan-daring.html">Peraturan Kompetisi Daring</a>
       </div>
 
-      <div
-        class="pt-tab"
-        role="tab"
-        aria-selected="{% if page.key == 'reference' %}true{% else %}false{% endif %}"
-      >
+      <div class="pt-tab" role="tab" aria-selected="{% if page.key == 'contestants' %}true{% else %}false{% endif %}">
+        <span class="pt-icon-standard pt-icon-people sidebar-icon"></span>
+        <a href="/peserta.html">Daftar Peserta</a>
+      </div>
+
+      <div class="pt-tab" role="tab" aria-selected="{% if page.key == 'reference' %}true{% else %}false{% endif %}">
         <span class="pt-icon-standard pt-icon-git-repo sidebar-icon"></span>
         <a href="/referensi.html">Referensi</a>
       </div>

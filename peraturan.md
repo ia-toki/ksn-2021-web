@@ -30,18 +30,18 @@ Perbedaan dengan [Peraturan KSN Informatika 2020](https://ksn2020.toki.id/peratu
 2. Pada soal bertipe *batch*:
    1. Peserta membuat sebuah program yang membaca masukan kasus uji dari **stdin** dan mencetak jawaban ke **stdout**.
    2. Program harus mengeluarkan jawaban dalam batas waktu dan memori yang dinyatakan pada soal.
-   3. Contoh soal: [Online Ojek, OSN 2018](https://tlx.toki.id/problems/osn-2018-1/C).
+   3. Contoh soal: [Online Ojek, OSN 2018](https://tlx.toki.id/problems/osn-2018/1C).
 
 3. Pada soal bertipe *interactive*:
    1. Peserta membuat sebuah program yang berinteraksi dengan program juri: program juri memberikan keluaran ke **stdout**, yang menjadi masukan **stdin** untuk program peserta, kemudian program peserta memberikan keluaran ke **stdout**, dan seterusnya, untuk mencapai tujuan tertentu yang dinyatakan pada soal.
    2. Program harus mengeluarkan jawaban dalam batas waktu dan memori yang dinyatakan pada soal.
-   3. Contoh soal: [Detecting Gold, OSN 2019](https://tlx.toki.id/problems/osn-2019-2/B).
+   3. Contoh soal: [Detecting Gold, OSN 2019](https://tlx.toki.id/problems/osn-2019/2B).
 
 4. Pada soal bertipe *output-only*:
    1. Peserta diberikan seluruh masukan dari kasus-kasus uji soal.
    2. Peserta menjawab dengan mengirimkan beberapa **berkas keluaran** yang sudah dikompres.
    3. Peserta **tidak harus** membuat program untuk menghasilkan berkas-berkas keluaran (boleh dikerjakan secara manual).
-   4. Contoh soal: [OSN Excursion, OSN 2019](https://tlx.toki.id/problems/osn-2019-1/C).
+   4. Contoh soal: [OSN Excursion, OSN 2019](https://tlx.toki.id/problems/osn-2019/1C).
 
 <br>
 

@@ -1,6 +1,6 @@
 ---
 layout: single-page-md
-title: Spesifikasi Teknis KSN 2020 Bidang Informatika
+title: Spesifikasi Teknis KSN 2021 Bidang Informatika
 key: spec
 ---
 

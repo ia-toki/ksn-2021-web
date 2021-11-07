@@ -33,3 +33,21 @@ key: terbuka
 - Peserta dapat menentukan sendiri kapan waktu memulai kontes, dalam rentang waktu tersebut di atas, dengan cara menekan tombol *timer* pada sistem kontes.
 - Jika peserta memulai kontes kurang dari 5 jam dari waktu berakhirnya kontes, peserta tidak akan mendapatkan tambahan waktu.
 - Tidak ada sistem klarifikasi dalam kontes, namun setiap pengumuman pada kontes asli akan diumumkan juga pada kontes terbuka.
+
+<br>
+
+### Kategori
+
+Peserta kontes terbuka terbagi atas 4 (empat) kategori:
+
+- **Alumni**, yaitu siapa pun yang pernah mengikuti Pelatnas TOKI.
+- **Siswa**, yaitu seluruh pelajar berkewarganegaraan Indonesia yang statusnya masih siswa SD - SMA di Indonesia, tidak menjadi peserta KSN 2021 Bidang Informatika, dan tidak termasuk kategori Alumni.
+- **Umum**, yaitu siapa pun yang berkewarganegaraan Indonesia dan tidak termasuk semua kategori di atas.
+- **Internasional**, yaitu siapa pun yang berkewarganegaraan asing.
+
+<br>
+
+### Hadiah
+
+* Terdapat hadiah menarik untuk 3 (tiga) peserta terbaik dari Kategori Siswa dan 3 (tiga) peserta terbaik dari Kategori Umum yang belum pernah mendapatkan hadiah sebelumnya!
+* Untuk pengumuman hadiah, akan dilakukan verifikasi melalui email setelah kompetisi berakhir.

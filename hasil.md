@@ -11,11 +11,6 @@ key: results
    Ini merupakan hasil untuk hari latihan, dan <b>BUKAN merupakan hasil resmi KSN 2021</b>.
 </div>
 
-<div class="alert alert-primary" role="alert">
-   <span class="pt-icon-standard pt-icon-info-sign sidebar-icon"></span>
-   Hasil untuk Hari 1 dan Hari 2 (<b>4 jam pertama setiap harinya</b>) akan diperlihatkan sehari setelah Hari 2.
-</div>
-
 <table class="table table-striped table-bordered">
    <thead>
       <tr id="headers">

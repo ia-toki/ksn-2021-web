@@ -126,6 +126,7 @@ key: open-results
         var td = h(tbody_tr, "td");
         td.textContent = data[i][j];
       }
+      tbody_tr.classList.add("participant");
       if (parseInt(data[i][3]) >= 349) {
         tbody_tr.classList.add("medal-gold");
         var td = h(tbody_tr, "td");

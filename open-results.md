@@ -31,8 +31,15 @@ key: open-results
 <div class="row">
 <div class="col-md-12">
 
-<p>Medals are awarded based on the cutoffs from the actual competition.</p>
-<p><i><u>For Indonesian citizens only</u>: Para pemenang hadiah kategori umum dan siswa akan dihubungi via email.</i></p>
+<div class="alert alert-warning" role="alert">
+   <span class="pt-icon-standard pt-icon-info-sign sidebar-icon"></span>
+   &nbsp;Medals are awarded based on the cutoffs from the actual competition.
+</div>
+
+<div class="alert alert-warning" role="alert">
+   <span class="pt-icon-standard pt-icon-info-sign sidebar-icon"></span>
+   &nbsp;<i><u>For Indonesian citizens only</u>: Para pemenang hadiah kategori umum dan siswa akan dihubungi via email.</i>
+</div>
 
 <form>
   <label for="filter">Filter By Team: </label>

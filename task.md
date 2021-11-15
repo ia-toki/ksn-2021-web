@@ -34,6 +34,7 @@ key: tasks
 
 ### Other Materials and Information
 
-* [Problem discussion (in indonesian)](https://docs.google.com/presentation/d/1ZvDBHjdHDLE2z2smygAP-po1peWPzxFGoYqDzoRDTzg/edit?usp=sharing)
+* [Problem discussion slides (in Bahasa Indonesia)](https://docs.google.com/presentation/d/1ZvDBHjdHDLE2z2smygAP-po1peWPzxFGoYqDzoRDTzg/edit?usp=sharing)
 * [Upsolving on TLX platform](https://tlx.toki.id/problems/ksn-2021)
 * Editorial is also available in the upsolve link.
+* If you would like to give feedback to the KSN Open, you may submit a response in <a href="https://forms.gle/Tq3qH3agchcKkNPi6">this form</a>.
